@@ -1,0 +1,3 @@
+I used Python libraries including NumPy, pandas, and matplotlib for the bandit analysis and visualization. I used ChatGPT to help clarify the project instructions, develop and troubleshoot Python code, and review the required output formats. I reviewed and executed the calculations in my Jupyter Notebook.
+
+

@@ -1,0 +1,1 @@
+UCB: I chose the Upper Confidence Bound algorithm because the observed rewards are continuous numerical values rather than binary outcomes, so Bernoulli-based bandit algorithms are not appropriate.
